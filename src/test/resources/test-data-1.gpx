@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://www.topografix.com/GPX/1/0"
+	xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd"
+	version="1.0">
+
+	<trk>
+		<trkseg>
+			<trkpt lat="10.00001001" lon="-100.00020001">
+				<time>2013-12-14T17:51:41Z</time>
+				<ele>1001.1</ele>
+			</trkpt>
+			<trkpt lat="10.00002001" lon="-100.00030001">
+				<time>2013-12-14T17:51:42Z</time>
+				<ele>1001.2</ele>
+			</trkpt>
+			<trkpt lat="10.00003002" lon="-100.00040002">
+				<time>2013-12-14T17:51:43Z</time>
+				<ele>1001.3</ele>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
